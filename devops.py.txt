@@ -1,9 +1,0 @@
-#!/usr/bin/python3
-
-import time
-
-print ("hello world")
-
-time.sleep(2)
-
-print("This is Second day of devops session ")
